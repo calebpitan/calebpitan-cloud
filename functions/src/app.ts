@@ -17,8 +17,6 @@ app.use(
       'https://us-central1-caleb-97b50.cloudfunctions.net',
       'https://calebpitan.netlify.app',
       'https://www.calebpitan.com',
-      'http://localhost:8000',
-      'http://localhost:9000'
     ],
     methods: ['POST', 'GET'],
   })
