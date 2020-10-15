@@ -16,7 +16,7 @@ app.use(
     origin: [
       'https://us-central1-caleb-97b50.cloudfunctions.net',
       'https://calebpitan.netlify.app',
-      'https://calebpitan.dev',
+      'https://www.calebpitan.com',
       'http://localhost:8000',
       'http://localhost:9000'
     ],
